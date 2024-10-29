@@ -14,4 +14,5 @@ Los visigodos se asentaron sobre todo por la zona de la Meseta Norte, especialme
 Este es el tiempo en el que se produce la reutilización de los materiales de construcción romanos para basílicas, iglesias y otras construcciones civiles (véase Arte visigodo).
 
 [Arquitectura](Arquitectura.md)
+
 [Obras](Obras.md)
