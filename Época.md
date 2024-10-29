@@ -15,4 +15,3 @@ Este es el tiempo en el que se produce la reutilización de los materiales de co
 
 [Arquitectura](Arquitectura.md)
 [Obras](Obras.md)
-![Visigodos](img/Visigodos.webp)
